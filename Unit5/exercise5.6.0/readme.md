@@ -1,0 +1,10 @@
+
+Exercise 5.6 (Greengrocer's Inventory Program)
+Create a program that should:
+
+Have a stock of fruits and another one of vegetables (The stock indicates if they sell that fruit or vegetable or not, not the quantity) - use lists within lists
+
+Have a menu and 3 functions
+
+1. Add fruits or vegetables to the corresponding stock (verifying that they are new)
+2. Check the stock of fruits or vegetables

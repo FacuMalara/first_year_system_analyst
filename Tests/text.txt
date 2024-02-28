@@ -1,0 +1,3 @@
+Hello, I am a text file
+of type str
+and I can be read

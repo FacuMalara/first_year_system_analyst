@@ -1,0 +1,3 @@
+Hello, I am a file 
+of type "file" 
+and I am opened with Python.
